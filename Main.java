@@ -4,12 +4,6 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-//        Scanner input = new Scanner(System.in);
-//        System.out.println("введите начало");
-//        int s = input.nextInt();
-//        System.out.println("введите конец");
-//        int e = input.nextInt();
-//        chisla(s, e);
         ComplexNumber b = new ComplexNumber(0, 3);
         ComplexNumber c = new ComplexNumber(17, 5);
         ComplexNumber res = b.add(c);
@@ -27,17 +21,6 @@ public class Main {
 
     }
 }
-
-
-
-
-
-
-
-
-
-
-
 
 
 
