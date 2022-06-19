@@ -9,7 +9,7 @@ public class Main {
     public static void chisla(int start, int end) {
     }
 
-    public void printer(double age){
+    public void printer(int a){
     }
 }
 
